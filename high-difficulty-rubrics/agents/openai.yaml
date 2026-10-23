@@ -1,0 +1,4 @@
+interface:
+  display_name: "高难度 Rubrics 设计"
+  short_description: "把题目转成原子化、可客观判分、能区分强弱答卷的考点，含判分口径与反例穿刺"
+  default_prompt: "使用 $high-difficulty-rubrics 为我提供的题目设计高难度 Rubrics：按原子化规则写考点，给出判分口径、材料缺口与冻结假设，并按输出契约交付。"
